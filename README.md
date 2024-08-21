@@ -10,7 +10,7 @@ Este es un proyecto simple de encriptador de texto desarrollado en HTML, CSS y J
 - [Cómo Usar](#cómo-usar)
 - [Estructura del Proyecto](#estructura-del-proyecto)
 - [Instalación](#instalación)
-- [Contribuciones](#contribuciones)
+- [Pueba](#Prueba)
 
 
 ## Características
@@ -23,8 +23,8 @@ Este es un proyecto simple de encriptador de texto desarrollado en HTML, CSS y J
 
 ## Tecnologías Utilizadas
 
-- **HTML5:** Estructura básica del sitio.
-- **CSS3:** Estilización del sitio con un enfoque en diseño responsivo.
+- **HTML:** Estructura básica del sitio.
+- **CSS:** Estilización del sitio con un enfoque en diseño responsivo.
 - **JavaScript:** Lógica para encriptar, desencriptar y copiar el texto.
 - **Google Fonts:** Tipografía personalizada.
 
@@ -52,17 +52,8 @@ Este es un proyecto simple de encriptador de texto desarrollado en HTML, CSS y J
    ```
 2. Abre el archivo `index.html` en tu navegador para comenzar a usar la aplicación.
 
-## Contribuciones
-
-Las contribuciones son bienvenidas. Por favor, sigue los siguientes pasos:
-
-1. Haz un fork del repositorio.
-2. Crea una rama nueva con tu funcionalidad (`git checkout -b feature/nueva-funcionalidad`).
-3. Realiza un commit con tus cambios (`git commit -am 'Agrega nueva funcionalidad'`).
-4. Haz push de la rama (`git push origin feature/nueva-funcionalidad`).
-5. Crea un Pull Request.
-
-
+## Prueba
+Esta proyecto fue desplegado en GitHub Pages y se puede acceder en el siguiente enlace: https://vanessagalindo2.github.io/ENCRIPTADOR-DE-TEXTO/
 ---
 
 Este `README.md` cubre los aspectos esenciales de tu proyecto y proporciona instrucciones claras para su uso e instalación.
