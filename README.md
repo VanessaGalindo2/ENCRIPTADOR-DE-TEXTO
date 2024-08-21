@@ -36,14 +36,14 @@ Este es un proyecto simple de encriptador de texto desarrollado en HTML, CSS y J
 4. **Copiar:** Usa el botón "Copiar" para copiar el texto encriptado o desencriptado al portapapeles.
 
 ## Estructura del Proyecto
-
+```
 ├── index.html          # Archivo principal HTML
 ├── css/
 │   └── style.css       # Estilos CSS
 ├── javascripts/
 │   └── script.js       # Lógica de encriptación/desencriptación
 └── README.md           # Este archivo```
-
+```
 ## Instalación
 
 1. Clona el repositorio en tu máquina local:
