@@ -11,7 +11,7 @@ Este es un proyecto simple de encriptador de texto desarrollado en HTML, CSS y J
 - [Estructura del Proyecto](#estructura-del-proyecto)
 - [Instalación](#instalación)
 - [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
+
 
 ## Características
 
